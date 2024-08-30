@@ -9,5 +9,4 @@ datasets/
 *.rar
 *.tar
 *.zip
-*.csv
 *.npy
