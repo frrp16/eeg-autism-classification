@@ -10,3 +10,4 @@ datasets/
 *.tar
 *.zip
 *.npy
+*.csv
